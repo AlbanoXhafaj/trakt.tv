@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Table /> should match the snapshot 1`] = `
+<table
+  className="center"
+>
+  <tbody>
+    <tr
+      key="0"
+    >
+      <td
+        key="0"
+      >
+        <div
+          className="cellTitle"
+        >
+          <span>
+            <b>
+              Show 1
+            </b>
+          </span>
+        </div>
+        <div
+          className="cellBody"
+        >
+          <img
+            alt="Show 1 's poster"
+            src="Show1.jpg"
+          />
+        </div>
+        <div
+          className="cellFooter"
+        >
+          <span>
+            Trakt Id: 
+            1
+          </span>
+          <br />
+          <span>
+            Rating: 
+            7.6
+          </span>
+          <br />
+          <span>
+            Year: 
+            1990
+          </span>
+          <br />
+          <span>
+            Episodes: 
+            5
+             
+          </span>
+        </div>
+      </td>
+      <td
+        key="1"
+      >
+        <div
+          className="cellTitle"
+        >
+          <span>
+            <b>
+              Show 2
+            </b>
+          </span>
+        </div>
+        <div
+          className="cellBody"
+        >
+          <img
+            alt="Show 2 's poster"
+            src="Show2.jpg"
+          />
+        </div>
+        <div
+          className="cellFooter"
+        >
+          <span>
+            Trakt Id: 
+            2
+          </span>
+          <br />
+          <span>
+            Rating: 
+            8.3
+          </span>
+          <br />
+          <span>
+            Year: 
+            2011
+          </span>
+          <br />
+          <span>
+            Episodes: 
+            17
+             
+          </span>
+        </div>
+      </td>
+      <td
+        key="2"
+      >
+        <div
+          className="cellTitle"
+        >
+          <span>
+            <b>
+              Show 3
+            </b>
+          </span>
+        </div>
+        <div
+          className="cellBody"
+        >
+          <img
+            alt="Show 3 's poster"
+            src="Show3.jpg"
+          />
+        </div>
+        <div
+          className="cellFooter"
+        >
+          <span>
+            Trakt Id: 
+            3
+          </span>
+          <br />
+          <span>
+            Rating: 
+            6.9
+          </span>
+          <br />
+          <span>
+            Year: 
+            2003
+          </span>
+          <br />
+          <span>
+            Episodes: 
+            32
+             
+          </span>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

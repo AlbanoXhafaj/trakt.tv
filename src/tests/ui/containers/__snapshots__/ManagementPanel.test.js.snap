@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ManagementPanel /> should match snapshot 1`] = `
+<fieldset>
+  <legend>
+    Management Panel
+  </legend>
+  <SelectList
+    onChange={[Function]}
+    options={
+      Array [
+        "Popular",
+        "Trending",
+        "Most Watched",
+        "Most Played",
+        "Most Collected",
+        "Most Anticipated",
+      ]
+    }
+    title="Sort"
+  />
+  <SearchPanel
+    onChange={[Function]}
+    text="Spiderman"
+  />
+  <SelectList
+    onChange={[Function]}
+    options={
+      Array [
+        10,
+        30,
+        50,
+        100,
+      ]
+    }
+    title="Grid Size"
+  />
+</fieldset>
+`;
+
+exports[`<ManagementPanel /> should match snapshot 2`] = `
+<fieldset>
+  <legend>
+    Management Panel
+  </legend>
+  <SelectList
+    onChange={[Function]}
+    options={
+      Array [
+        "Popular",
+        "Trending",
+        "Most Watched",
+        "Most Played",
+        "Most Collected",
+        "Most Anticipated",
+      ]
+    }
+    title="Sort"
+  />
+  <SelectList
+    onChange={[Function]}
+    options={
+      Array [
+        "Weekly",
+        "Monthly",
+        "Yearly",
+        "All",
+      ]
+    }
+    title="Period"
+  />
+  <SearchPanel
+    onChange={[Function]}
+    text="Spiderman"
+  />
+  <SelectList
+    onChange={[Function]}
+    options={
+      Array [
+        10,
+        30,
+        50,
+        100,
+      ]
+    }
+    title="Grid Size"
+  />
+</fieldset>
+`;

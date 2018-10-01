@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearchPanel  /> should match with the snapshot 1`] = `
+<div
+  className="inline"
+>
+  <span>
+    Search:
+  </span>
+  <input
+    onChange={[Function]}
+    placeholder="keyword..."
+    type="text"
+    value="search text"
+  />
+</div>
+`;

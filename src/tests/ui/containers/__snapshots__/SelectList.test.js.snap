@@ -1,0 +1,107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SelectList /> should match the snapshot with firstElement 1`] = `
+<div
+  className="inline"
+>
+  <span>
+     
+    Dropdownlist with fisrt element
+    : 
+  </span>
+  <select
+    onChange={[Function]}
+  >
+    <option
+      value="-1"
+    >
+       
+      Select an option
+       
+    </option>
+    <option
+      key="0"
+      value={0}
+    >
+      option1
+    </option>
+    <option
+      key="1"
+      value={1}
+    >
+      option2
+    </option>
+    <option
+      key="2"
+      value={2}
+    >
+      option3
+    </option>
+    <option
+      key="3"
+      value={3}
+    >
+      option4
+    </option>
+    <option
+      key="4"
+      value={4}
+    >
+      option5
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<SelectList /> should match the snapshot without firstElement 1`] = `
+<div
+  className="inline"
+>
+  <span>
+     
+    Dropdownlist with fisrt element
+    : 
+  </span>
+  <select
+    onChange={[Function]}
+  >
+    <option
+      value="-1"
+    >
+       
+      Select an option
+       
+    </option>
+    <option
+      key="0"
+      value={0}
+    >
+      option1
+    </option>
+    <option
+      key="1"
+      value={1}
+    >
+      option2
+    </option>
+    <option
+      key="2"
+      value={2}
+    >
+      option3
+    </option>
+    <option
+      key="3"
+      value={3}
+    >
+      option4
+    </option>
+    <option
+      key="4"
+      value={4}
+    >
+      option5
+    </option>
+  </select>
+</div>
+`;
